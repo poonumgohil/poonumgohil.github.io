@@ -82,3 +82,20 @@ footer {
     background-color: #555;
 }
 
+
+/* LinkedIn Button */
+
+.linkedin-icon {
+    margin-top: 1rem;
+}
+
+.linkedin-icon a {
+    text-decoration: none;
+    color: #0077B5; /* LinkedIn blue color */
+    font-size: 24px;
+    transition: color 0.3s ease;
+}
+
+.linkedin-icon a:hover {
+    color: #004471; /* Darker shade on hover */
+}
